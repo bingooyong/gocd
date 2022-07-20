@@ -10,7 +10,7 @@
     "karma": "karma start"
   },
   "dependencies": {
-    "angular": "1.0.8",
+    "angular": "1.8.3",
     "babel-polyfill": "^6.26.0",
     "dragula": "^3.7.2",
     "filesize": "^3.5.10",
